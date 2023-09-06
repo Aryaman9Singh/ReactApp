@@ -40,6 +40,7 @@ export default class Home extends React.Component {
     //     <Text style={styles.title}>
     //       {'Standard Price : ' + item.StandardPrice}
     //     </Text>
+    // Kittu Rider
     //     <Text style={styles.title}>{'Member Price : ' + item.MemberPrice}</Text>
     //     <Text style={styles.title}>{'Type Name: ' + item.CourseTypeName}</Text>
     //     <Text style={styles.title}>
